@@ -1,0 +1,1178 @@
+Fiscal_Year,Fiscal_Month,Partner,Category,Budget_Units,Budget_Revenue,Budget_GM_Dollars
+2024,1,Amazon,Accessories,59,1098.16,661.1
+2024,1,Amazon,Activewear,3,177.33,99.66
+2024,1,Amazon,Graphic Tees,82,1422.54,835.25
+2024,1,Amazon,Men's Denim,53,3600.43,1796.05
+2024,1,Amazon,Outerwear,21,2339.35,1020.66
+2024,1,Amazon,Seasonal Capsule,6,398.95,213.81
+2024,1,Amazon,Tops & Blouses,8,232.34,125.5
+2024,1,Amazon,Women's Denim,18,768.46,399.02
+2024,1,Macy's,Accessories,40,755.46,471.2
+2024,1,Macy's,Activewear,11,377.22,194.17
+2024,1,Macy's,Aerie Intimates,11,234.49,130.96
+2024,1,Macy's,Graphic Tees,184,3811.13,2352.76
+2024,1,Macy's,Loungewear,25,722.58,412.11
+2024,1,Macy's,Men's Denim,48,3043.29,1604.29
+2024,1,Macy's,Outerwear,25,2846.33,1337.88
+2024,1,Macy's,Seasonal Capsule,54,5038.17,2516.26
+2024,1,Macy's,Tops & Blouses,14,351.04,183.86
+2024,1,Macy's,Women's Denim,20,848.22,428.45
+2024,1,Nordstrom,Accessories,28,529.82,318.26
+2024,1,Nordstrom,Activewear,5,139.86,68.23
+2024,1,Nordstrom,Graphic Tees,112,2360.92,1383.7
+2024,1,Nordstrom,Loungewear,3,83.02,50.17
+2024,1,Nordstrom,Men's Denim,4,237.06,129.51
+2024,1,Nordstrom,Outerwear,22,2658.15,1178.24
+2024,1,Nordstrom,Seasonal Capsule,34,3189.7,1635.22
+2024,1,Nordstrom,Tops & Blouses,14,376.05,211.0
+2024,1,Nordstrom,Women's Denim,26,1162.22,641.46
+2024,1,NuOrder_Direct,Accessories,11,275.66,173.16
+2024,1,NuOrder_Direct,Activewear,3,79.85,40.83
+2024,1,NuOrder_Direct,Aerie Intimates,8,160.65,97.58
+2024,1,NuOrder_Direct,Graphic Tees,84,1809.01,1037.41
+2024,1,NuOrder_Direct,Loungewear,15,417.87,245.07
+2024,1,NuOrder_Direct,Men's Denim,17,1024.93,479.36
+2024,1,NuOrder_Direct,Outerwear,13,1555.35,686.24
+2024,1,NuOrder_Direct,Seasonal Capsule,32,2917.43,1519.61
+2024,1,NuOrder_Direct,Tops & Blouses,6,164.84,89.98
+2024,1,NuOrder_Direct,Women's Denim,13,601.98,316.27
+2024,1,Zappos,Accessories,19,375.98,216.37
+2024,1,Zappos,Activewear,4,142.39,73.14
+2024,1,Zappos,Graphic Tees,9,192.27,107.11
+2024,1,Zappos,Loungewear,3,85.86,49.1
+2024,1,Zappos,Seasonal Capsule,2,195.58,103.78
+2024,1,Zappos,Tops & Blouses,4,116.54,68.22
+2024,1,Zappos,Women's Denim,6,281.55,169.24
+2024,2,Amazon,Accessories,86,1627.58,934.7
+2024,2,Amazon,Activewear,33,1380.54,742.39
+2024,2,Amazon,Aerie Intimates,56,1813.89,1189.47
+2024,2,Amazon,Graphic Tees,194,4160.19,2589.51
+2024,2,Amazon,Men's Denim,61,3988.84,1994.66
+2024,2,Amazon,Outerwear,55,6041.96,2681.33
+2024,2,Amazon,Seasonal Capsule,10,647.05,355.6
+2024,2,Amazon,Tops & Blouses,21,878.1,447.51
+2024,2,Amazon,Women's Denim,94,5449.27,2851.48
+2024,2,Macy's,Accessories,110,2323.56,1345.98
+2024,2,Macy's,Activewear,29,1224.92,660.77
+2024,2,Macy's,Aerie Intimates,41,1172.28,623.97
+2024,2,Macy's,Graphic Tees,495,10999.11,6251.56
+2024,2,Macy's,Loungewear,47,1370.16,757.6
+2024,2,Macy's,Men's Denim,90,5517.65,2923.25
+2024,2,Macy's,Outerwear,75,7730.39,3815.7
+2024,2,Macy's,Seasonal Capsule,70,6220.61,3221.23
+2024,2,Macy's,Tops & Blouses,53,1145.33,651.1
+2024,2,Macy's,Women's Denim,58,2980.77,1503.04
+2024,2,Nordstrom,Accessories,69,1409.81,853.47
+2024,2,Nordstrom,Activewear,15,438.45,224.27
+2024,2,Nordstrom,Aerie Intimates,28,911.93,594.01
+2024,2,Nordstrom,Graphic Tees,233,4737.99,2788.71
+2024,2,Nordstrom,Loungewear,4,114.02,62.39
+2024,2,Nordstrom,Men's Denim,7,496.65,242.76
+2024,2,Nordstrom,Outerwear,59,5986.95,2789.86
+2024,2,Nordstrom,Seasonal Capsule,42,3383.93,1855.72
+2024,2,Nordstrom,Tops & Blouses,31,850.32,476.01
+2024,2,Nordstrom,Women's Denim,102,5447.64,2921.55
+2024,2,NuOrder_Direct,Accessories,42,938.41,606.85
+2024,2,NuOrder_Direct,Activewear,4,110.62,54.64
+2024,2,NuOrder_Direct,Aerie Intimates,29,877.95,531.74
+2024,2,NuOrder_Direct,Graphic Tees,204,4559.58,2586.06
+2024,2,NuOrder_Direct,Loungewear,30,834.54,477.36
+2024,2,NuOrder_Direct,Men's Denim,36,2093.83,1041.74
+2024,2,NuOrder_Direct,Outerwear,40,4009.03,1928.2
+2024,2,NuOrder_Direct,Seasonal Capsule,36,3250.08,1719.73
+2024,2,NuOrder_Direct,Tops & Blouses,39,1070.0,589.57
+2024,2,NuOrder_Direct,Women's Denim,58,2922.12,1625.17
+2024,2,Zappos,Accessories,44,861.0,557.61
+2024,2,Zappos,Activewear,8,361.94,184.89
+2024,2,Zappos,Aerie Intimates,1,30.68,18.41
+2024,2,Zappos,Graphic Tees,19,389.56,221.59
+2024,2,Zappos,Loungewear,4,116.1,65.49
+2024,2,Zappos,Outerwear,15,1265.94,614.19
+2024,2,Zappos,Seasonal Capsule,7,694.55,365.69
+2024,2,Zappos,Tops & Blouses,15,447.88,255.05
+2024,2,Zappos,Women's Denim,25,1213.33,707.83
+2024,3,Amazon,Accessories,94,1695.07,1078.91
+2024,3,Amazon,Activewear,123,5087.23,3059.77
+2024,3,Amazon,Aerie Intimates,165,4520.09,2739.2
+2024,3,Amazon,Graphic Tees,300,7230.34,4074.38
+2024,3,Amazon,Loungewear,93,3771.51,1881.85
+2024,3,Amazon,Men's Denim,84,5701.76,2976.6
+2024,3,Amazon,Outerwear,89,9210.43,4176.81
+2024,3,Amazon,Seasonal Capsule,19,1476.3,773.61
+2024,3,Amazon,Tops & Blouses,34,1249.7,653.06
+2024,3,Amazon,Women's Denim,225,13756.81,7348.41
+2024,3,Macy's,Accessories,168,3198.61,1994.88
+2024,3,Macy's,Activewear,164,7015.65,3695.58
+2024,3,Macy's,Aerie Intimates,201,5496.57,3124.46
+2024,3,Macy's,Graphic Tees,613,13233.16,7838.8
+2024,3,Macy's,Loungewear,176,7049.43,4049.17
+2024,3,Macy's,Men's Denim,155,10019.35,5200.3
+2024,3,Macy's,Outerwear,96,9953.32,4426.32
+2024,3,Macy's,Seasonal Capsule,92,8214.99,4123.74
+2024,3,Macy's,Tops & Blouses,77,1709.3,983.26
+2024,3,Macy's,Women's Denim,168,9919.32,5249.31
+2024,3,Nordstrom,Accessories,118,2278.14,1401.18
+2024,3,Nordstrom,Activewear,62,2283.21,1338.05
+2024,3,Nordstrom,Aerie Intimates,175,4964.9,2814.55
+2024,3,Nordstrom,Graphic Tees,288,5667.37,3414.02
+2024,3,Nordstrom,Loungewear,71,2898.42,1665.39
+2024,3,Nordstrom,Men's Denim,45,3129.31,1623.05
+2024,3,Nordstrom,Outerwear,81,7832.99,3779.59
+2024,3,Nordstrom,Seasonal Capsule,59,4254.7,2222.07
+2024,3,Nordstrom,Tops & Blouses,39,1088.32,594.19
+2024,3,Nordstrom,Women's Denim,169,9373.06,5125.57
+2024,3,NuOrder_Direct,Accessories,42,994.21,624.74
+2024,3,NuOrder_Direct,Activewear,40,1641.65,912.12
+2024,3,NuOrder_Direct,Aerie Intimates,139,3873.29,2201.89
+2024,3,NuOrder_Direct,Graphic Tees,224,4896.15,2877.72
+2024,3,NuOrder_Direct,Loungewear,111,4389.8,2464.63
+2024,3,NuOrder_Direct,Men's Denim,73,4333.22,2307.24
+2024,3,NuOrder_Direct,Outerwear,49,4804.8,2366.69
+2024,3,NuOrder_Direct,Seasonal Capsule,42,3900.02,1977.18
+2024,3,NuOrder_Direct,Tops & Blouses,54,1375.88,766.0
+2024,3,NuOrder_Direct,Women's Denim,104,6075.51,3391.41
+2024,3,Zappos,Accessories,47,952.06,598.78
+2024,3,Zappos,Activewear,25,1196.82,671.84
+2024,3,Zappos,Aerie Intimates,16,424.84,242.57
+2024,3,Zappos,Graphic Tees,49,1200.33,680.96
+2024,3,Zappos,Loungewear,10,447.21,241.39
+2024,3,Zappos,Men's Denim,8,532.34,290.73
+2024,3,Zappos,Outerwear,27,2326.03,1106.17
+2024,3,Zappos,Seasonal Capsule,8,675.6,352.68
+2024,3,Zappos,Tops & Blouses,13,383.36,219.8
+2024,3,Zappos,Women's Denim,58,3167.5,1773.85
+2024,4,Amazon,Accessories,198,3860.97,2352.42
+2024,4,Amazon,Activewear,189,8169.49,4455.92
+2024,4,Amazon,Aerie Intimates,302,8109.42,5066.93
+2024,4,Amazon,Graphic Tees,557,13142.9,7734.52
+2024,4,Amazon,Loungewear,135,5779.4,2935.51
+2024,4,Amazon,Men's Denim,201,12569.98,6525.47
+2024,4,Amazon,Outerwear,109,10765.22,4972.57
+2024,4,Amazon,Seasonal Capsule,37,3358.18,1688.31
+2024,4,Amazon,Tops & Blouses,139,4644.32,2649.16
+2024,4,Amazon,Women's Denim,297,17754.69,9619.48
+2024,4,Macy's,Accessories,318,5907.09,3680.71
+2024,4,Macy's,Activewear,267,10802.26,6099.44
+2024,4,Macy's,Aerie Intimates,335,8598.29,5057.05
+2024,4,Macy's,Graphic Tees,861,18939.36,11358.57
+2024,4,Macy's,Loungewear,284,10908.9,6134.33
+2024,4,Macy's,Men's Denim,229,15336.96,7781.73
+2024,4,Macy's,Outerwear,112,11247.88,5488.25
+2024,4,Macy's,Seasonal Capsule,175,14222.76,7173.67
+2024,4,Macy's,Tops & Blouses,212,5852.17,3384.39
+2024,4,Macy's,Women's Denim,364,20254.56,11181.79
+2024,4,Nordstrom,Accessories,186,3233.17,2064.38
+2024,4,Nordstrom,Activewear,102,3916.58,2115.83
+2024,4,Nordstrom,Aerie Intimates,264,7182.62,4303.18
+2024,4,Nordstrom,Graphic Tees,453,9758.97,5577.36
+2024,4,Nordstrom,Loungewear,83,3551.58,2050.52
+2024,4,Nordstrom,Men's Denim,90,6342.44,3242.62
+2024,4,Nordstrom,Outerwear,99,9803.26,4695.23
+2024,4,Nordstrom,Seasonal Capsule,82,5596.86,2869.51
+2024,4,Nordstrom,Tops & Blouses,144,4746.12,2628.05
+2024,4,Nordstrom,Women's Denim,282,16452.23,8850.02
+2024,4,NuOrder_Direct,Accessories,116,2410.37,1577.22
+2024,4,NuOrder_Direct,Activewear,74,2882.21,1554.53
+2024,4,NuOrder_Direct,Aerie Intimates,226,5980.51,3457.99
+2024,4,NuOrder_Direct,Graphic Tees,323,7388.08,4451.72
+2024,4,NuOrder_Direct,Loungewear,139,5510.76,3140.14
+2024,4,NuOrder_Direct,Men's Denim,150,9547.22,4663.5
+2024,4,NuOrder_Direct,Outerwear,64,6457.78,3035.56
+2024,4,NuOrder_Direct,Seasonal Capsule,81,7124.08,3509.32
+2024,4,NuOrder_Direct,Tops & Blouses,109,3110.56,1810.37
+2024,4,NuOrder_Direct,Women's Denim,210,11771.2,6897.66
+2024,4,Zappos,Accessories,74,1619.35,1015.97
+2024,4,Zappos,Activewear,46,1975.07,1150.59
+2024,4,Zappos,Aerie Intimates,55,1358.71,803.69
+2024,4,Zappos,Graphic Tees,56,1420.88,806.59
+2024,4,Zappos,Loungewear,17,833.69,451.24
+2024,4,Zappos,Men's Denim,47,3008.8,1460.17
+2024,4,Zappos,Outerwear,32,2778.2,1311.29
+2024,4,Zappos,Seasonal Capsule,18,1241.36,667.88
+2024,4,Zappos,Tops & Blouses,16,515.93,297.75
+2024,4,Zappos,Women's Denim,104,5964.29,3178.75
+2024,5,Amazon,Accessories,256,5303.08,3339.92
+2024,5,Amazon,Activewear,163,7139.14,3953.95
+2024,5,Amazon,Aerie Intimates,480,13567.81,7891.51
+2024,5,Amazon,Graphic Tees,444,10011.62,6111.36
+2024,5,Amazon,Loungewear,157,7324.31,3800.94
+2024,5,Amazon,Men's Denim,167,10653.91,5451.61
+2024,5,Amazon,Outerwear,109,9758.65,4822.74
+2024,5,Amazon,Seasonal Capsule,100,7409.98,3605.36
+2024,5,Amazon,Tops & Blouses,167,5557.87,3107.88
+2024,5,Amazon,Women's Denim,238,14012.53,7976.79
+2024,5,Macy's,Accessories,365,8316.2,5156.62
+2024,5,Macy's,Activewear,228,9417.22,5263.3
+2024,5,Macy's,Aerie Intimates,404,10937.54,6092.6
+2024,5,Macy's,Graphic Tees,769,17463.83,10549.33
+2024,5,Macy's,Loungewear,259,9827.74,5845.92
+2024,5,Macy's,Men's Denim,229,14635.94,7527.56
+2024,5,Macy's,Outerwear,117,12342.08,6137.18
+2024,5,Macy's,Seasonal Capsule,142,11476.66,5730.94
+2024,5,Macy's,Tops & Blouses,185,5447.49,3074.5
+2024,5,Macy's,Women's Denim,298,16543.28,9332.35
+2024,5,Nordstrom,Accessories,141,2390.21,1510.89
+2024,5,Nordstrom,Activewear,95,3924.83,2147.94
+2024,5,Nordstrom,Aerie Intimates,248,6656.9,4039.91
+2024,5,Nordstrom,Graphic Tees,436,9421.89,5467.16
+2024,5,Nordstrom,Loungewear,73,3262.61,1815.11
+2024,5,Nordstrom,Men's Denim,86,5918.43,3040.96
+2024,5,Nordstrom,Outerwear,84,8867.66,4128.57
+2024,5,Nordstrom,Seasonal Capsule,72,4230.23,2070.18
+2024,5,Nordstrom,Tops & Blouses,164,5794.52,3017.23
+2024,5,Nordstrom,Women's Denim,277,15676.74,8486.38
+2024,5,NuOrder_Direct,Accessories,161,4222.67,2702.22
+2024,5,NuOrder_Direct,Activewear,95,4161.84,2121.4
+2024,5,NuOrder_Direct,Aerie Intimates,273,7063.62,4141.4
+2024,5,NuOrder_Direct,Graphic Tees,307,7105.29,4033.88
+2024,5,NuOrder_Direct,Loungewear,121,4970.13,2656.85
+2024,5,NuOrder_Direct,Men's Denim,115,6824.66,3636.72
+2024,5,NuOrder_Direct,Outerwear,80,8153.1,3947.94
+2024,5,NuOrder_Direct,Seasonal Capsule,79,5944.88,3052.24
+2024,5,NuOrder_Direct,Tops & Blouses,146,4663.62,2572.47
+2024,5,NuOrder_Direct,Women's Denim,174,9991.09,5626.0
+2024,5,Zappos,Accessories,107,2880.81,1842.07
+2024,5,Zappos,Activewear,47,2275.43,1300.63
+2024,5,Zappos,Aerie Intimates,128,3145.83,1870.32
+2024,5,Zappos,Graphic Tees,66,1604.05,921.13
+2024,5,Zappos,Loungewear,31,1546.24,838.11
+2024,5,Zappos,Men's Denim,54,3297.65,1756.61
+2024,5,Zappos,Outerwear,40,3653.08,1834.05
+2024,5,Zappos,Seasonal Capsule,17,1211.44,614.8
+2024,5,Zappos,Tops & Blouses,13,402.01,221.71
+2024,5,Zappos,Women's Denim,85,4825.83,2715.35
+2024,6,Amazon,Accessories,268,5797.07,3473.76
+2024,6,Amazon,Activewear,174,7366.72,3997.15
+2024,6,Amazon,Aerie Intimates,497,13324.36,8114.72
+2024,6,Amazon,Graphic Tees,566,13204.54,7693.27
+2024,6,Amazon,Loungewear,269,12434.54,6927.7
+2024,6,Amazon,Men's Denim,226,13745.5,7249.86
+2024,6,Amazon,Outerwear,117,10630.01,5154.36
+2024,6,Amazon,Seasonal Capsule,108,7741.28,3676.2
+2024,6,Amazon,Tops & Blouses,174,5811.89,3423.97
+2024,6,Amazon,Women's Denim,327,19930.65,10486.87
+2024,6,Macy's,Accessories,375,8471.04,5718.66
+2024,6,Macy's,Activewear,286,11387.88,6308.9
+2024,6,Macy's,Aerie Intimates,466,12223.06,6803.13
+2024,6,Macy's,Graphic Tees,809,17782.51,10910.74
+2024,6,Macy's,Loungewear,387,15474.19,8484.72
+2024,6,Macy's,Men's Denim,268,16882.41,8906.37
+2024,6,Macy's,Outerwear,135,14707.05,6730.01
+2024,6,Macy's,Seasonal Capsule,138,11099.3,5636.88
+2024,6,Macy's,Tops & Blouses,213,6301.08,3479.12
+2024,6,Macy's,Women's Denim,384,20934.52,11293.21
+2024,6,Nordstrom,Accessories,147,2525.72,1639.86
+2024,6,Nordstrom,Activewear,108,4163.73,2411.32
+2024,6,Nordstrom,Aerie Intimates,277,7315.44,4415.56
+2024,6,Nordstrom,Graphic Tees,392,8563.47,5109.92
+2024,6,Nordstrom,Loungewear,117,5518.44,3151.06
+2024,6,Nordstrom,Men's Denim,99,6653.54,3532.18
+2024,6,Nordstrom,Outerwear,93,9953.63,4784.09
+2024,6,Nordstrom,Seasonal Capsule,86,4808.33,2378.83
+2024,6,Nordstrom,Tops & Blouses,170,5719.0,3324.06
+2024,6,Nordstrom,Women's Denim,257,15318.97,8139.73
+2024,6,NuOrder_Direct,Accessories,164,4246.84,2696.41
+2024,6,NuOrder_Direct,Activewear,114,4813.45,2711.09
+2024,6,NuOrder_Direct,Aerie Intimates,259,6746.48,3803.42
+2024,6,NuOrder_Direct,Graphic Tees,342,8053.63,4649.22
+2024,6,NuOrder_Direct,Loungewear,187,7240.46,4148.37
+2024,6,NuOrder_Direct,Men's Denim,141,8823.07,4515.1
+2024,6,NuOrder_Direct,Outerwear,84,8015.54,3947.44
+2024,6,NuOrder_Direct,Seasonal Capsule,79,5939.54,2925.32
+2024,6,NuOrder_Direct,Tops & Blouses,141,4637.89,2488.56
+2024,6,NuOrder_Direct,Women's Denim,203,11689.96,6339.47
+2024,6,Zappos,Accessories,99,2698.13,1660.33
+2024,6,Zappos,Activewear,53,2508.62,1408.99
+2024,6,Zappos,Aerie Intimates,106,2571.71,1486.99
+2024,6,Zappos,Graphic Tees,62,1522.42,867.98
+2024,6,Zappos,Loungewear,80,3617.06,2026.52
+2024,6,Zappos,Men's Denim,60,3864.6,1872.87
+2024,6,Zappos,Outerwear,48,4490.44,2132.48
+2024,6,Zappos,Seasonal Capsule,19,1256.55,642.79
+2024,6,Zappos,Tops & Blouses,14,414.56,240.1
+2024,6,Zappos,Women's Denim,93,5349.72,2858.39
+2024,7,Amazon,Accessories,327,7282.48,4315.42
+2024,7,Amazon,Activewear,279,11740.78,6608.42
+2024,7,Amazon,Aerie Intimates,642,16775.81,9856.22
+2024,7,Amazon,Graphic Tees,727,17474.0,9789.6
+2024,7,Amazon,Loungewear,346,15322.97,8743.03
+2024,7,Amazon,Men's Denim,309,19228.01,10208.89
+2024,7,Amazon,Outerwear,235,21020.09,10159.99
+2024,7,Amazon,Seasonal Capsule,169,11810.26,5917.66
+2024,7,Amazon,Tops & Blouses,241,8053.08,4358.96
+2024,7,Amazon,Women's Denim,489,28702.19,15999.43
+2024,7,Macy's,Accessories,480,11330.06,7322.44
+2024,7,Macy's,Activewear,493,21210.64,11608.29
+2024,7,Macy's,Aerie Intimates,589,15376.55,8950.14
+2024,7,Macy's,Graphic Tees,869,20100.01,11498.67
+2024,7,Macy's,Loungewear,560,21430.49,12720.57
+2024,7,Macy's,Men's Denim,589,37635.4,18650.85
+2024,7,Macy's,Outerwear,326,33069.21,16190.25
+2024,7,Macy's,Seasonal Capsule,86,6712.75,3499.45
+2024,7,Macy's,Tops & Blouses,266,7765.95,4279.47
+2024,7,Macy's,Women's Denim,767,41132.82,22380.85
+2024,7,Nordstrom,Accessories,181,3023.39,1892.93
+2024,7,Nordstrom,Activewear,178,7617.02,4554.37
+2024,7,Nordstrom,Aerie Intimates,299,8247.63,4572.84
+2024,7,Nordstrom,Graphic Tees,505,10660.62,6376.81
+2024,7,Nordstrom,Loungewear,179,8250.43,4444.16
+2024,7,Nordstrom,Men's Denim,233,15336.99,7575.52
+2024,7,Nordstrom,Outerwear,304,31860.93,15857.65
+2024,7,Nordstrom,Seasonal Capsule,95,5899.2,2962.37
+2024,7,Nordstrom,Tops & Blouses,262,9280.19,4942.66
+2024,7,Nordstrom,Women's Denim,557,31937.96,17169.01
+2024,7,NuOrder_Direct,Accessories,196,5024.75,3250.86
+2024,7,NuOrder_Direct,Activewear,181,7830.26,4211.59
+2024,7,NuOrder_Direct,Aerie Intimates,396,10372.91,6096.75
+2024,7,NuOrder_Direct,Graphic Tees,401,9529.16,5643.67
+2024,7,NuOrder_Direct,Loungewear,270,10783.63,6069.39
+2024,7,NuOrder_Direct,Men's Denim,276,16433.1,8894.98
+2024,7,NuOrder_Direct,Outerwear,234,24450.44,11763.78
+2024,7,NuOrder_Direct,Seasonal Capsule,80,5207.66,2653.1
+2024,7,NuOrder_Direct,Tops & Blouses,206,6583.69,3733.06
+2024,7,NuOrder_Direct,Women's Denim,338,19038.79,10251.13
+2024,7,Zappos,Accessories,136,3489.82,2351.04
+2024,7,Zappos,Activewear,106,5317.27,2832.22
+2024,7,Zappos,Aerie Intimates,213,5282.61,3178.06
+2024,7,Zappos,Graphic Tees,83,1915.58,1159.02
+2024,7,Zappos,Loungewear,128,5643.64,3160.63
+2024,7,Zappos,Men's Denim,103,6788.4,3415.58
+2024,7,Zappos,Outerwear,123,11328.68,5577.89
+2024,7,Zappos,Seasonal Capsule,35,2034.25,967.74
+2024,7,Zappos,Tops & Blouses,18,585.27,332.74
+2024,7,Zappos,Women's Denim,149,8704.83,4751.18
+2024,8,Amazon,Accessories,276,5897.49,3661.82
+2024,8,Amazon,Activewear,261,11723.52,6173.55
+2024,8,Amazon,Aerie Intimates,678,18435.74,10908.44
+2024,8,Amazon,Graphic Tees,717,16531.68,9569.19
+2024,8,Amazon,Loungewear,275,12353.59,6611.7
+2024,8,Amazon,Men's Denim,364,23086.75,12003.54
+2024,8,Amazon,Outerwear,245,23002.12,10943.22
+2024,8,Amazon,Seasonal Capsule,133,11031.63,5608.25
+2024,8,Amazon,Tops & Blouses,237,7690.65,4552.62
+2024,8,Amazon,Women's Denim,499,28345.84,15195.62
+2024,8,Macy's,Accessories,422,9745.32,6087.56
+2024,8,Macy's,Activewear,543,24255.39,13819.7
+2024,8,Macy's,Aerie Intimates,643,18395.21,10470.17
+2024,8,Macy's,Graphic Tees,754,16908.33,9839.63
+2024,8,Macy's,Loungewear,436,17767.09,9436.29
+2024,8,Macy's,Men's Denim,572,35615.09,18048.29
+2024,8,Macy's,Outerwear,253,29025.73,13080.0
+2024,8,Macy's,Seasonal Capsule,60,5349.85,2760.98
+2024,8,Macy's,Tops & Blouses,238,7536.4,4126.14
+2024,8,Macy's,Women's Denim,727,40777.41,20507.71
+2024,8,Nordstrom,Accessories,179,3231.05,1993.3
+2024,8,Nordstrom,Activewear,232,11562.53,6328.97
+2024,8,Nordstrom,Aerie Intimates,257,6868.35,3809.54
+2024,8,Nordstrom,Graphic Tees,434,9293.52,5585.56
+2024,8,Nordstrom,Loungewear,176,7415.34,4256.25
+2024,8,Nordstrom,Men's Denim,231,14308.52,7794.44
+2024,8,Nordstrom,Outerwear,251,27774.22,13860.51
+2024,8,Nordstrom,Seasonal Capsule,67,5029.59,2612.84
+2024,8,Nordstrom,Tops & Blouses,234,7806.68,4405.97
+2024,8,Nordstrom,Women's Denim,492,27786.72,15216.52
+2024,8,NuOrder_Direct,Accessories,175,4232.47,2715.94
+2024,8,NuOrder_Direct,Activewear,194,8419.44,4981.54
+2024,8,NuOrder_Direct,Aerie Intimates,428,11623.89,6907.31
+2024,8,NuOrder_Direct,Graphic Tees,408,9021.46,5364.42
+2024,8,NuOrder_Direct,Loungewear,204,8048.91,4656.51
+2024,8,NuOrder_Direct,Men's Denim,269,16900.29,8370.05
+2024,8,NuOrder_Direct,Outerwear,191,19917.11,9675.57
+2024,8,NuOrder_Direct,Seasonal Capsule,50,4173.25,2081.35
+2024,8,NuOrder_Direct,Tops & Blouses,183,5848.21,3249.91
+2024,8,NuOrder_Direct,Women's Denim,326,18302.21,9536.56
+2024,8,Zappos,Accessories,103,2724.27,1726.0
+2024,8,Zappos,Activewear,111,5862.3,3218.05
+2024,8,Zappos,Aerie Intimates,219,5608.92,3381.04
+2024,8,Zappos,Graphic Tees,84,2047.35,1150.05
+2024,8,Zappos,Loungewear,104,4341.42,2369.15
+2024,8,Zappos,Men's Denim,91,6014.62,3042.17
+2024,8,Zappos,Outerwear,108,10721.34,5098.24
+2024,8,Zappos,Seasonal Capsule,26,1434.15,746.67
+2024,8,Zappos,Tops & Blouses,21,740.96,410.95
+2024,8,Zappos,Women's Denim,116,7134.86,3803.73
+2024,9,Amazon,Accessories,361,8450.69,5161.71
+2024,9,Amazon,Activewear,305,13733.42,7428.41
+2024,9,Amazon,Aerie Intimates,657,18930.81,10378.75
+2024,9,Amazon,Graphic Tees,879,20264.68,12288.36
+2024,9,Amazon,Loungewear,323,14613.95,8162.51
+2024,9,Amazon,Men's Denim,485,30918.07,15785.13
+2024,9,Amazon,Outerwear,307,28849.47,14092.41
+2024,9,Amazon,Seasonal Capsule,95,7581.69,3766.68
+2024,9,Amazon,Tops & Blouses,384,13285.15,7503.26
+2024,9,Amazon,Women's Denim,491,27760.38,15073.62
+2024,9,Macy's,Accessories,455,11371.74,7004.89
+2024,9,Macy's,Activewear,670,29619.17,17140.58
+2024,9,Macy's,Aerie Intimates,632,17290.19,10032.99
+2024,9,Macy's,Graphic Tees,841,19488.25,11315.17
+2024,9,Macy's,Loungewear,439,17980.49,10079.43
+2024,9,Macy's,Men's Denim,678,42627.98,21508.25
+2024,9,Macy's,Outerwear,302,33982.37,15756.73
+2024,9,Macy's,Seasonal Capsule,36,3079.0,1584.17
+2024,9,Macy's,Tops & Blouses,271,9271.1,5126.39
+2024,9,Macy's,Women's Denim,904,50120.49,25616.4
+2024,9,Nordstrom,Accessories,225,4895.78,3043.84
+2024,9,Nordstrom,Activewear,308,14119.93,8313.77
+2024,9,Nordstrom,Aerie Intimates,260,6543.01,3976.42
+2024,9,Nordstrom,Graphic Tees,497,10961.52,6724.32
+2024,9,Nordstrom,Loungewear,194,7961.17,4511.14
+2024,9,Nordstrom,Men's Denim,266,17681.96,8828.0
+2024,9,Nordstrom,Outerwear,274,29962.41,14833.13
+2024,9,Nordstrom,Seasonal Capsule,48,3466.41,1719.69
+2024,9,Nordstrom,Tops & Blouses,259,9019.37,5005.14
+2024,9,Nordstrom,Women's Denim,548,30784.61,16273.91
+2024,9,NuOrder_Direct,Accessories,225,6033.92,3871.66
+2024,9,NuOrder_Direct,Activewear,235,10469.92,6011.99
+2024,9,NuOrder_Direct,Aerie Intimates,435,12368.85,7057.61
+2024,9,NuOrder_Direct,Graphic Tees,438,10235.53,6093.25
+2024,9,NuOrder_Direct,Loungewear,227,8930.0,5140.68
+2024,9,NuOrder_Direct,Men's Denim,277,16651.2,8497.96
+2024,9,NuOrder_Direct,Outerwear,211,22687.42,11499.93
+2024,9,NuOrder_Direct,Seasonal Capsule,38,3274.73,1592.07
+2024,9,NuOrder_Direct,Tops & Blouses,166,5456.44,2921.15
+2024,9,NuOrder_Direct,Women's Denim,410,23006.82,12114.7
+2024,9,Zappos,Accessories,97,2564.65,1793.15
+2024,9,Zappos,Activewear,151,7461.5,4009.05
+2024,9,Zappos,Aerie Intimates,242,6606.11,3697.42
+2024,9,Zappos,Graphic Tees,72,1694.13,982.88
+2024,9,Zappos,Loungewear,143,5897.63,3336.77
+2024,9,Zappos,Men's Denim,100,6286.63,3287.42
+2024,9,Zappos,Outerwear,146,15174.46,7163.62
+2024,9,Zappos,Seasonal Capsule,23,1245.42,630.24
+2024,9,Zappos,Tops & Blouses,39,1528.55,833.3
+2024,9,Zappos,Women's Denim,196,11597.32,6181.6
+2024,10,Amazon,Accessories,429,9707.59,6359.04
+2024,10,Amazon,Activewear,452,19815.47,10450.6
+2024,10,Amazon,Aerie Intimates,1026,28841.72,17105.59
+2024,10,Amazon,Graphic Tees,1079,24957.11,14876.22
+2024,10,Amazon,Loungewear,437,21300.7,11111.65
+2024,10,Amazon,Men's Denim,729,45550.31,22885.71
+2024,10,Amazon,Outerwear,441,41149.05,19593.82
+2024,10,Amazon,Seasonal Capsule,84,6489.88,3253.84
+2024,10,Amazon,Tops & Blouses,455,16286.89,8827.68
+2024,10,Amazon,Women's Denim,691,37413.04,21191.92
+2024,10,Macy's,Accessories,639,16805.35,10864.36
+2024,10,Macy's,Activewear,828,36522.8,19958.17
+2024,10,Macy's,Aerie Intimates,889,24038.41,13913.62
+2024,10,Macy's,Graphic Tees,1065,23771.2,14511.21
+2024,10,Macy's,Loungewear,664,26488.96,15523.19
+2024,10,Macy's,Men's Denim,1036,65393.77,31685.13
+2024,10,Macy's,Outerwear,408,44979.82,21134.99
+2024,10,Macy's,Seasonal Capsule,59,4785.41,2241.9
+2024,10,Macy's,Tops & Blouses,399,13330.17,7417.81
+2024,10,Macy's,Women's Denim,1325,72868.38,39136.38
+2024,10,Nordstrom,Accessories,284,7087.33,4318.98
+2024,10,Nordstrom,Activewear,433,19665.42,10671.33
+2024,10,Nordstrom,Aerie Intimates,413,10770.0,6266.59
+2024,10,Nordstrom,Graphic Tees,687,15643.3,8824.89
+2024,10,Nordstrom,Loungewear,282,13016.88,7302.84
+2024,10,Nordstrom,Men's Denim,389,25401.34,13170.31
+2024,10,Nordstrom,Outerwear,386,41513.61,20455.51
+2024,10,Nordstrom,Seasonal Capsule,51,3801.47,1777.69
+2024,10,Nordstrom,Tops & Blouses,367,13099.95,7473.96
+2024,10,Nordstrom,Women's Denim,886,49451.56,26204.49
+2024,10,NuOrder_Direct,Accessories,289,8074.32,5077.64
+2024,10,NuOrder_Direct,Activewear,310,14214.11,7441.32
+2024,10,NuOrder_Direct,Aerie Intimates,619,17568.7,9940.57
+2024,10,NuOrder_Direct,Graphic Tees,565,13109.57,7815.59
+2024,10,NuOrder_Direct,Loungewear,291,12389.11,6709.64
+2024,10,NuOrder_Direct,Men's Denim,476,29249.25,15223.09
+2024,10,NuOrder_Direct,Outerwear,277,29961.86,14573.59
+2024,10,NuOrder_Direct,Seasonal Capsule,34,2886.49,1377.47
+2024,10,NuOrder_Direct,Tops & Blouses,251,8731.36,4611.44
+2024,10,NuOrder_Direct,Women's Denim,598,33420.64,17082.06
+2024,10,Zappos,Accessories,114,3195.73,1996.23
+2024,10,Zappos,Activewear,209,10112.27,5568.27
+2024,10,Zappos,Aerie Intimates,356,9387.06,5558.41
+2024,10,Zappos,Graphic Tees,110,2579.84,1477.53
+2024,10,Zappos,Loungewear,160,6777.86,3668.4
+2024,10,Zappos,Men's Denim,180,11449.62,5893.11
+2024,10,Zappos,Outerwear,200,20028.35,9598.72
+2024,10,Zappos,Seasonal Capsule,11,499.39,253.66
+2024,10,Zappos,Tops & Blouses,56,2241.96,1174.16
+2024,10,Zappos,Women's Denim,284,16329.91,8513.23
+2024,11,Amazon,Accessories,402,9666.25,5479.0
+2024,11,Amazon,Activewear,448,19637.86,10907.14
+2024,11,Amazon,Aerie Intimates,939,25966.73,15783.91
+2024,11,Amazon,Graphic Tees,852,20078.72,10935.85
+2024,11,Amazon,Loungewear,345,16176.01,9516.99
+2024,11,Amazon,Men's Denim,841,52669.67,27992.14
+2024,11,Amazon,Outerwear,385,31247.22,15665.83
+2024,11,Amazon,Seasonal Capsule,35,2187.28,1094.27
+2024,11,Amazon,Tops & Blouses,459,15966.83,8705.01
+2024,11,Amazon,Women's Denim,560,29746.49,16501.14
+2024,11,Macy's,Accessories,525,14703.8,9128.04
+2024,11,Macy's,Activewear,702,33093.0,18183.36
+2024,11,Macy's,Aerie Intimates,850,24560.07,13470.8
+2024,11,Macy's,Graphic Tees,989,22864.75,13461.44
+2024,11,Macy's,Loungewear,670,26954.83,15651.48
+2024,11,Macy's,Men's Denim,953,56970.15,30599.18
+2024,11,Macy's,Outerwear,300,28463.76,13386.12
+2024,11,Macy's,Seasonal Capsule,24,1859.34,847.23
+2024,11,Macy's,Tops & Blouses,396,14572.13,7875.99
+2024,11,Macy's,Women's Denim,1234,70496.34,35736.0
+2024,11,Nordstrom,Accessories,250,6293.03,3988.65
+2024,11,Nordstrom,Activewear,327,15995.57,8503.85
+2024,11,Nordstrom,Aerie Intimates,350,9306.29,5300.61
+2024,11,Nordstrom,Graphic Tees,544,12582.59,7478.91
+2024,11,Nordstrom,Loungewear,223,9681.75,5518.37
+2024,11,Nordstrom,Men's Denim,343,23267.97,11796.02
+2024,11,Nordstrom,Outerwear,263,27231.95,12898.06
+2024,11,Nordstrom,Seasonal Capsule,28,1784.83,844.66
+2024,11,Nordstrom,Tops & Blouses,296,10707.96,5909.18
+2024,11,Nordstrom,Women's Denim,777,43892.47,23338.25
+2024,11,NuOrder_Direct,Accessories,242,6765.06,4379.31
+2024,11,NuOrder_Direct,Activewear,274,12518.24,6899.72
+2024,11,NuOrder_Direct,Aerie Intimates,550,15114.26,9374.84
+2024,11,NuOrder_Direct,Graphic Tees,481,11580.54,6363.03
+2024,11,NuOrder_Direct,Loungewear,258,11497.6,6246.43
+2024,11,NuOrder_Direct,Men's Denim,405,24303.86,12502.76
+2024,11,NuOrder_Direct,Outerwear,190,19086.13,9819.63
+2024,11,NuOrder_Direct,Seasonal Capsule,16,1302.64,642.83
+2024,11,NuOrder_Direct,Tops & Blouses,230,8442.77,4359.23
+2024,11,NuOrder_Direct,Women's Denim,461,25081.72,13946.81
+2024,11,Zappos,Accessories,110,2978.61,1808.1
+2024,11,Zappos,Activewear,159,7993.3,4396.32
+2024,11,Zappos,Aerie Intimates,353,9712.35,5823.1
+2024,11,Zappos,Graphic Tees,94,2245.0,1246.67
+2024,11,Zappos,Loungewear,117,4937.25,2830.37
+2024,11,Zappos,Men's Denim,207,13432.95,6758.42
+2024,11,Zappos,Outerwear,155,14020.09,6731.3
+2024,11,Zappos,Seasonal Capsule,4,144.14,77.95
+2024,11,Zappos,Tops & Blouses,65,2552.63,1437.03
+2024,11,Zappos,Women's Denim,295,17550.68,9608.84
+2024,12,Amazon,Accessories,527,12658.99,7908.98
+2024,12,Amazon,Activewear,517,24579.96,13793.24
+2024,12,Amazon,Aerie Intimates,1365,39710.86,22136.6
+2024,12,Amazon,Graphic Tees,1210,27832.68,16475.76
+2024,12,Amazon,Loungewear,515,25225.73,14259.16
+2024,12,Amazon,Men's Denim,898,56071.24,29122.6
+2024,12,Amazon,Outerwear,561,47059.21,23204.4
+2024,12,Amazon,Seasonal Capsule,50,2554.47,1313.66
+2024,12,Amazon,Tops & Blouses,472,15879.22,8996.37
+2024,12,Amazon,Women's Denim,849,47093.29,25561.99
+2024,12,Macy's,Accessories,710,19267.54,12483.87
+2024,12,Macy's,Activewear,888,39990.01,22766.67
+2024,12,Macy's,Aerie Intimates,1223,35417.55,20253.56
+2024,12,Macy's,Graphic Tees,1052,23970.57,14565.29
+2024,12,Macy's,Loungewear,917,37563.91,21465.23
+2024,12,Macy's,Men's Denim,1166,72307.48,38665.16
+2024,12,Macy's,Outerwear,456,41621.96,21170.25
+2024,12,Macy's,Seasonal Capsule,38,2317.43,1160.9
+2024,12,Macy's,Tops & Blouses,521,20194.34,10706.63
+2024,12,Macy's,Women's Denim,1585,86278.46,45319.57
+2024,12,Nordstrom,Accessories,303,7754.25,4511.72
+2024,12,Nordstrom,Activewear,450,22000.9,12302.71
+2024,12,Nordstrom,Aerie Intimates,601,16763.58,9853.21
+2024,12,Nordstrom,Graphic Tees,633,14160.65,8330.77
+2024,12,Nordstrom,Loungewear,372,17036.88,9454.84
+2024,12,Nordstrom,Men's Denim,504,34046.82,16445.38
+2024,12,Nordstrom,Outerwear,363,35904.8,17769.71
+2024,12,Nordstrom,Seasonal Capsule,38,1968.43,986.59
+2024,12,Nordstrom,Tops & Blouses,404,14161.03,8198.8
+2024,12,Nordstrom,Women's Denim,978,55406.92,29681.49
+2024,12,NuOrder_Direct,Accessories,338,9555.97,6332.52
+2024,12,NuOrder_Direct,Activewear,412,18367.16,10094.75
+2024,12,NuOrder_Direct,Aerie Intimates,831,24368.91,13446.06
+2024,12,NuOrder_Direct,Graphic Tees,497,11542.96,6612.09
+2024,12,NuOrder_Direct,Loungewear,373,16449.88,9142.92
+2024,12,NuOrder_Direct,Men's Denim,566,33956.71,17759.31
+2024,12,NuOrder_Direct,Outerwear,278,28890.01,13560.91
+2024,12,NuOrder_Direct,Seasonal Capsule,24,1665.79,830.39
+2024,12,NuOrder_Direct,Tops & Blouses,299,11138.06,6043.56
+2024,12,NuOrder_Direct,Women's Denim,625,35421.42,18466.96
+2024,12,Zappos,Accessories,141,3684.71,2444.61
+2024,12,Zappos,Activewear,215,10769.62,6131.54
+2024,12,Zappos,Aerie Intimates,428,12202.64,7022.16
+2024,12,Zappos,Graphic Tees,104,2451.75,1395.67
+2024,12,Zappos,Loungewear,137,5914.6,3292.53
+2024,12,Zappos,Men's Denim,292,18138.3,9078.11
+2024,12,Zappos,Outerwear,201,18477.22,8400.13
+2024,12,Zappos,Seasonal Capsule,9,397.9,209.93
+2024,12,Zappos,Tops & Blouses,124,4637.6,2738.02
+2024,12,Zappos,Women's Denim,356,20844.31,10803.65
+2025,1,Amazon,Accessories,381,9058.03,5578.36
+2025,1,Amazon,Activewear,506,26176.64,13643.8
+2025,1,Amazon,Aerie Intimates,1062,31315.83,17363.79
+2025,1,Amazon,Graphic Tees,934,20919.09,12627.14
+2025,1,Amazon,Loungewear,438,21573.06,12282.34
+2025,1,Amazon,Men's Denim,673,41275.52,22125.66
+2025,1,Amazon,Outerwear,229,19821.2,9647.91
+2025,1,Amazon,Seasonal Capsule,69,4374.53,2156.48
+2025,1,Amazon,Tops & Blouses,385,13693.94,7614.3
+2025,1,Amazon,Women's Denim,541,29828.48,15297.74
+2025,1,Macy's,Accessories,510,14416.2,9224.53
+2025,1,Macy's,Activewear,757,36951.76,20500.38
+2025,1,Macy's,Aerie Intimates,884,26846.81,15580.4
+2025,1,Macy's,Graphic Tees,720,15652.08,9457.61
+2025,1,Macy's,Loungewear,680,28624.39,16255.25
+2025,1,Macy's,Men's Denim,803,50655.7,26496.0
+2025,1,Macy's,Outerwear,179,17308.95,8349.46
+2025,1,Macy's,Seasonal Capsule,49,2713.3,1362.63
+2025,1,Macy's,Tops & Blouses,450,16129.2,9368.0
+2025,1,Macy's,Women's Denim,1059,58914.93,32643.29
+2025,1,Nordstrom,Accessories,214,5417.33,3423.14
+2025,1,Nordstrom,Activewear,361,17618.75,9396.07
+2025,1,Nordstrom,Aerie Intimates,486,14520.73,8331.93
+2025,1,Nordstrom,Graphic Tees,453,10665.44,6312.5
+2025,1,Nordstrom,Loungewear,320,16064.13,8960.29
+2025,1,Nordstrom,Men's Denim,359,23637.83,11759.73
+2025,1,Nordstrom,Outerwear,148,14587.83,7071.1
+2025,1,Nordstrom,Seasonal Capsule,26,1126.0,568.14
+2025,1,Nordstrom,Tops & Blouses,346,12295.64,6801.45
+2025,1,Nordstrom,Women's Denim,687,38401.19,20383.33
+2025,1,NuOrder_Direct,Accessories,256,7288.43,4945.87
+2025,1,NuOrder_Direct,Activewear,335,15753.36,8316.39
+2025,1,NuOrder_Direct,Aerie Intimates,706,20922.46,12030.04
+2025,1,NuOrder_Direct,Graphic Tees,382,8630.59,4892.48
+2025,1,NuOrder_Direct,Loungewear,284,12988.12,7106.85
+2025,1,NuOrder_Direct,Men's Denim,434,26583.98,13571.72
+2025,1,NuOrder_Direct,Outerwear,108,10856.28,5400.05
+2025,1,NuOrder_Direct,Seasonal Capsule,23,1436.76,689.61
+2025,1,NuOrder_Direct,Tops & Blouses,236,8448.62,4659.62
+2025,1,NuOrder_Direct,Women's Denim,444,23712.07,12800.41
+2025,1,Zappos,Accessories,117,3067.93,1943.88
+2025,1,Zappos,Activewear,187,9132.49,4990.76
+2025,1,Zappos,Aerie Intimates,352,9873.86,5600.63
+2025,1,Zappos,Graphic Tees,109,2692.83,1614.22
+2025,1,Zappos,Loungewear,106,4756.01,2594.0
+2025,1,Zappos,Men's Denim,198,11983.62,6432.9
+2025,1,Zappos,Outerwear,90,8391.38,3917.14
+2025,1,Zappos,Seasonal Capsule,7,323.64,169.79
+2025,1,Zappos,Tops & Blouses,99,3939.15,2144.3
+2025,1,Zappos,Women's Denim,278,16497.12,8563.26
+2025,2,Amazon,Accessories,293,7529.75,4608.69
+2025,2,Amazon,Activewear,486,24532.17,13533.78
+2025,2,Amazon,Aerie Intimates,1063,30447.11,18202.41
+2025,2,Amazon,Graphic Tees,1064,25027.65,14471.41
+2025,2,Amazon,Loungewear,444,21869.67,12026.57
+2025,2,Amazon,Men's Denim,627,39376.13,21150.15
+2025,2,Amazon,Outerwear,232,20533.84,9068.8
+2025,2,Amazon,Seasonal Capsule,79,5017.29,2575.97
+2025,2,Amazon,Tops & Blouses,438,14932.07,8236.14
+2025,2,Amazon,Women's Denim,501,26755.37,14287.68
+2025,2,Macy's,Accessories,500,13487.31,8759.37
+2025,2,Macy's,Activewear,753,37806.49,20732.47
+2025,2,Macy's,Aerie Intimates,929,28294.23,16262.78
+2025,2,Macy's,Graphic Tees,650,14585.39,8113.79
+2025,2,Macy's,Loungewear,599,25683.61,14411.29
+2025,2,Macy's,Men's Denim,708,43019.57,22728.68
+2025,2,Macy's,Outerwear,172,16701.11,7711.92
+2025,2,Macy's,Seasonal Capsule,60,3924.93,1891.18
+2025,2,Macy's,Tops & Blouses,557,20253.46,10717.21
+2025,2,Macy's,Women's Denim,992,57311.36,30595.16
+2025,2,Nordstrom,Accessories,206,5203.08,3078.01
+2025,2,Nordstrom,Activewear,321,15788.91,9043.26
+2025,2,Nordstrom,Aerie Intimates,498,14263.19,7835.82
+2025,2,Nordstrom,Graphic Tees,412,9288.1,5863.84
+2025,2,Nordstrom,Loungewear,320,15867.09,9320.51
+2025,2,Nordstrom,Men's Denim,408,26361.35,14133.76
+2025,2,Nordstrom,Outerwear,147,14401.61,6943.29
+2025,2,Nordstrom,Seasonal Capsule,26,1403.04,667.09
+2025,2,Nordstrom,Tops & Blouses,382,13222.76,7903.91
+2025,2,Nordstrom,Women's Denim,552,31538.26,17185.93
+2025,2,NuOrder_Direct,Accessories,225,6686.67,4260.87
+2025,2,NuOrder_Direct,Activewear,288,14269.92,7589.59
+2025,2,NuOrder_Direct,Aerie Intimates,682,20681.6,11820.13
+2025,2,NuOrder_Direct,Graphic Tees,314,6975.02,4184.81
+2025,2,NuOrder_Direct,Loungewear,283,12791.67,7107.51
+2025,2,NuOrder_Direct,Men's Denim,413,24929.04,13180.75
+2025,2,NuOrder_Direct,Outerwear,114,10954.49,5574.28
+2025,2,NuOrder_Direct,Seasonal Capsule,26,1582.3,767.82
+2025,2,NuOrder_Direct,Tops & Blouses,303,11005.7,6348.57
+2025,2,NuOrder_Direct,Women's Denim,410,23409.19,12576.98
+2025,2,Zappos,Accessories,133,3463.11,2362.0
+2025,2,Zappos,Activewear,162,8490.26,4782.76
+2025,2,Zappos,Aerie Intimates,363,9912.67,5691.13
+2025,2,Zappos,Graphic Tees,107,2512.7,1533.38
+2025,2,Zappos,Loungewear,115,5073.89,2656.77
+2025,2,Zappos,Men's Denim,226,14687.5,7038.59
+2025,2,Zappos,Outerwear,90,7893.37,3736.73
+2025,2,Zappos,Seasonal Capsule,9,635.79,300.9
+2025,2,Zappos,Tops & Blouses,110,3895.51,2160.14
+2025,2,Zappos,Women's Denim,259,15782.2,8371.26
+2025,3,Amazon,Accessories,234,6216.1,3578.77
+2025,3,Amazon,Activewear,522,25664.44,13693.26
+2025,3,Amazon,Aerie Intimates,1051,30953.18,18381.69
+2025,3,Amazon,Graphic Tees,985,22384.24,13478.25
+2025,3,Amazon,Loungewear,401,19072.57,11056.96
+2025,3,Amazon,Men's Denim,506,31160.27,16340.16
+2025,3,Amazon,Outerwear,233,20872.58,9740.66
+2025,3,Amazon,Seasonal Capsule,92,6003.31,3266.54
+2025,3,Amazon,Tops & Blouses,478,16358.54,9408.65
+2025,3,Amazon,Women's Denim,455,23445.45,13771.79
+2025,3,Macy's,Accessories,438,11546.34,7606.95
+2025,3,Macy's,Activewear,693,33643.39,18420.66
+2025,3,Macy's,Aerie Intimates,1001,30638.27,17018.26
+2025,3,Macy's,Graphic Tees,603,12652.49,7696.51
+2025,3,Macy's,Loungewear,666,27838.2,15474.86
+2025,3,Macy's,Men's Denim,641,38478.94,20587.59
+2025,3,Macy's,Outerwear,194,18604.61,8611.8
+2025,3,Macy's,Seasonal Capsule,59,3729.74,1924.52
+2025,3,Macy's,Tops & Blouses,541,18806.1,11090.3
+2025,3,Macy's,Women's Denim,998,57944.42,30840.14
+2025,3,Nordstrom,Accessories,202,5095.39,3056.43
+2025,3,Nordstrom,Activewear,282,14136.8,7981.75
+2025,3,Nordstrom,Aerie Intimates,568,16723.94,9130.98
+2025,3,Nordstrom,Graphic Tees,356,8680.26,5095.66
+2025,3,Nordstrom,Loungewear,306,15090.3,9020.8
+2025,3,Nordstrom,Men's Denim,362,22890.6,11666.65
+2025,3,Nordstrom,Outerwear,156,15913.29,7520.29
+2025,3,Nordstrom,Seasonal Capsule,32,2043.59,977.17
+2025,3,Nordstrom,Tops & Blouses,426,15853.68,8403.14
+2025,3,Nordstrom,Women's Denim,583,33453.46,18522.18
+2025,3,NuOrder_Direct,Accessories,208,5784.89,3777.44
+2025,3,NuOrder_Direct,Activewear,266,12538.28,7341.04
+2025,3,NuOrder_Direct,Aerie Intimates,586,17596.11,10376.85
+2025,3,NuOrder_Direct,Graphic Tees,273,5885.65,3439.12
+2025,3,NuOrder_Direct,Loungewear,277,12040.51,6850.04
+2025,3,NuOrder_Direct,Men's Denim,341,20753.05,10919.3
+2025,3,NuOrder_Direct,Outerwear,112,11432.36,5452.38
+2025,3,NuOrder_Direct,Seasonal Capsule,29,1802.81,850.97
+2025,3,NuOrder_Direct,Tops & Blouses,281,10344.59,5846.12
+2025,3,NuOrder_Direct,Women's Denim,427,23525.77,12423.56
+2025,3,Zappos,Accessories,94,2171.19,1439.78
+2025,3,Zappos,Activewear,157,8316.76,4477.9
+2025,3,Zappos,Aerie Intimates,303,8447.46,4803.18
+2025,3,Zappos,Graphic Tees,113,2813.51,1533.41
+2025,3,Zappos,Loungewear,125,5456.39,3079.03
+2025,3,Zappos,Men's Denim,193,11696.79,5939.07
+2025,3,Zappos,Outerwear,82,7045.52,3244.06
+2025,3,Zappos,Seasonal Capsule,4,387.46,180.83
+2025,3,Zappos,Tops & Blouses,110,4065.86,2184.08
+2025,3,Zappos,Women's Denim,232,13121.5,7643.41
+2025,4,Amazon,Accessories,297,7822.25,4764.33
+2025,4,Amazon,Activewear,548,27622.11,15212.18
+2025,4,Amazon,Aerie Intimates,1203,36952.56,21691.57
+2025,4,Amazon,Graphic Tees,1255,28792.08,16394.32
+2025,4,Amazon,Loungewear,498,23943.95,13619.45
+2025,4,Amazon,Men's Denim,570,36760.93,19173.46
+2025,4,Amazon,Outerwear,179,16234.4,7133.3
+2025,4,Amazon,Seasonal Capsule,121,8971.45,4927.29
+2025,4,Amazon,Tops & Blouses,721,25693.94,13959.84
+2025,4,Amazon,Women's Denim,511,28747.98,15793.14
+2025,4,Macy's,Accessories,535,14653.02,8671.04
+2025,4,Macy's,Activewear,804,40089.03,22894.0
+2025,4,Macy's,Aerie Intimates,1139,34302.3,20061.49
+2025,4,Macy's,Graphic Tees,683,14894.81,8830.51
+2025,4,Macy's,Loungewear,657,28287.2,15916.58
+2025,4,Macy's,Men's Denim,673,41756.43,22615.76
+2025,4,Macy's,Outerwear,191,17796.15,8253.88
+2025,4,Macy's,Seasonal Capsule,80,5977.89,2920.4
+2025,4,Macy's,Tops & Blouses,843,28782.55,16189.91
+2025,4,Macy's,Women's Denim,1068,63115.75,33442.89
+2025,4,Nordstrom,Accessories,192,5209.58,3100.91
+2025,4,Nordstrom,Activewear,315,15781.28,8777.92
+2025,4,Nordstrom,Aerie Intimates,564,17026.88,9443.9
+2025,4,Nordstrom,Graphic Tees,472,11610.46,6644.17
+2025,4,Nordstrom,Loungewear,332,17577.28,9477.67
+2025,4,Nordstrom,Men's Denim,475,29908.43,16389.77
+2025,4,Nordstrom,Outerwear,128,13072.32,6205.94
+2025,4,Nordstrom,Seasonal Capsule,45,3108.88,1521.18
+2025,4,Nordstrom,Tops & Blouses,610,22886.18,12799.91
+2025,4,Nordstrom,Women's Denim,596,34270.48,18632.18
+2025,4,NuOrder_Direct,Accessories,244,6333.84,3936.11
+2025,4,NuOrder_Direct,Activewear,294,13873.73,8091.76
+2025,4,NuOrder_Direct,Aerie Intimates,666,19240.12,11876.51
+2025,4,NuOrder_Direct,Graphic Tees,309,7128.99,4269.21
+2025,4,NuOrder_Direct,Loungewear,301,13591.19,8127.86
+2025,4,NuOrder_Direct,Men's Denim,411,24896.1,13752.72
+2025,4,NuOrder_Direct,Outerwear,92,8919.37,4377.93
+2025,4,NuOrder_Direct,Seasonal Capsule,22,1393.09,668.48
+2025,4,NuOrder_Direct,Tops & Blouses,344,12452.58,7228.88
+2025,4,NuOrder_Direct,Women's Denim,479,27815.46,14687.4
+2025,4,Zappos,Accessories,82,1808.9,1210.32
+2025,4,Zappos,Activewear,184,9644.81,5313.39
+2025,4,Zappos,Aerie Intimates,307,8275.79,5162.69
+2025,4,Zappos,Graphic Tees,103,2403.83,1476.75
+2025,4,Zappos,Loungewear,122,5997.35,3092.05
+2025,4,Zappos,Men's Denim,233,14294.43,7622.86
+2025,4,Zappos,Outerwear,75,6727.28,3185.68
+2025,4,Zappos,Seasonal Capsule,5,495.04,215.08
+2025,4,Zappos,Tops & Blouses,130,4873.46,2556.91
+2025,4,Zappos,Women's Denim,303,18040.81,9225.54
+2025,5,Amazon,Accessories,241,6131.59,3587.3
+2025,5,Amazon,Activewear,430,19875.65,11180.42
+2025,5,Amazon,Aerie Intimates,678,21762.63,11417.76
+2025,5,Amazon,Graphic Tees,1017,22370.12,13860.73
+2025,5,Amazon,Loungewear,437,21174.31,12066.53
+2025,5,Amazon,Men's Denim,479,31157.07,15873.02
+2025,5,Amazon,Outerwear,131,11230.19,5231.1
+2025,5,Amazon,Seasonal Capsule,122,9887.96,4902.8
+2025,5,Amazon,Tops & Blouses,665,24463.32,13757.22
+2025,5,Amazon,Women's Denim,270,14034.32,7406.59
+2025,5,Macy's,Accessories,352,9828.35,5771.9
+2025,5,Macy's,Activewear,524,25760.46,13350.14
+2025,5,Macy's,Aerie Intimates,746,20810.1,11973.92
+2025,5,Macy's,Graphic Tees,607,13104.05,7700.54
+2025,5,Macy's,Loungewear,453,20173.98,11642.16
+2025,5,Macy's,Men's Denim,550,35235.51,18248.93
+2025,5,Macy's,Outerwear,139,12759.18,6108.08
+2025,5,Macy's,Seasonal Capsule,77,6233.92,2940.92
+2025,5,Macy's,Tops & Blouses,667,24568.22,13348.0
+2025,5,Macy's,Women's Denim,725,41753.91,22062.2
+2025,5,Nordstrom,Accessories,134,3937.46,2313.73
+2025,5,Nordstrom,Activewear,203,9973.32,5429.61
+2025,5,Nordstrom,Aerie Intimates,374,10730.6,6021.5
+2025,5,Nordstrom,Graphic Tees,354,8909.67,4939.89
+2025,5,Nordstrom,Loungewear,258,13536.8,7866.51
+2025,5,Nordstrom,Men's Denim,327,21147.55,11452.81
+2025,5,Nordstrom,Outerwear,97,9569.37,4857.16
+2025,5,Nordstrom,Seasonal Capsule,39,2732.12,1425.74
+2025,5,Nordstrom,Tops & Blouses,502,17854.64,9780.39
+2025,5,Nordstrom,Women's Denim,378,20427.33,11405.62
+2025,5,NuOrder_Direct,Accessories,166,4479.33,2677.52
+2025,5,NuOrder_Direct,Activewear,197,8914.83,5229.49
+2025,5,NuOrder_Direct,Aerie Intimates,492,13567.49,8094.42
+2025,5,NuOrder_Direct,Graphic Tees,223,5364.82,2960.67
+2025,5,NuOrder_Direct,Loungewear,244,11021.83,6171.43
+2025,5,NuOrder_Direct,Men's Denim,280,16989.32,9351.56
+2025,5,NuOrder_Direct,Outerwear,71,7103.4,3424.73
+2025,5,NuOrder_Direct,Seasonal Capsule,21,1550.29,746.51
+2025,5,NuOrder_Direct,Tops & Blouses,296,11248.21,6440.93
+2025,5,NuOrder_Direct,Women's Denim,329,18849.01,9975.27
+2025,5,Zappos,Accessories,56,1214.73,757.32
+2025,5,Zappos,Activewear,99,4821.41,2718.92
+2025,5,Zappos,Aerie Intimates,168,4244.08,2594.75
+2025,5,Zappos,Graphic Tees,64,1537.05,903.64
+2025,5,Zappos,Loungewear,94,4493.75,2464.6
+2025,5,Zappos,Men's Denim,157,9528.28,4990.71
+2025,5,Zappos,Outerwear,46,4102.77,1889.04
+2025,5,Zappos,Seasonal Capsule,9,835.49,435.51
+2025,5,Zappos,Tops & Blouses,103,3781.74,2058.16
+2025,5,Zappos,Women's Denim,211,12633.68,6431.77
+2025,6,Amazon,Accessories,162,3820.95,2421.22
+2025,6,Amazon,Activewear,415,19903.47,10456.26
+2025,6,Amazon,Aerie Intimates,548,18021.08,9895.13
+2025,6,Amazon,Graphic Tees,745,16394.13,10114.45
+2025,6,Amazon,Loungewear,399,19195.89,10531.31
+2025,6,Amazon,Men's Denim,419,27990.05,13456.78
+2025,6,Amazon,Outerwear,153,13927.29,6084.42
+2025,6,Amazon,Seasonal Capsule,133,11816.87,5732.31
+2025,6,Amazon,Tops & Blouses,589,22215.75,11681.45
+2025,6,Amazon,Women's Denim,220,12001.1,6483.25
+2025,6,Macy's,Accessories,283,7676.8,4635.1
+2025,6,Macy's,Activewear,481,23290.81,12353.35
+2025,6,Macy's,Aerie Intimates,733,21448.58,12038.19
+2025,6,Macy's,Graphic Tees,483,10364.32,6376.29
+2025,6,Macy's,Loungewear,484,21243.62,11940.68
+2025,6,Macy's,Men's Denim,475,28830.98,15401.29
+2025,6,Macy's,Outerwear,139,12353.74,6090.48
+2025,6,Macy's,Seasonal Capsule,95,8558.87,4330.2
+2025,6,Macy's,Tops & Blouses,589,21781.28,12276.91
+2025,6,Macy's,Women's Denim,620,33805.37,18881.79
+2025,6,Nordstrom,Accessories,133,3866.28,2392.72
+2025,6,Nordstrom,Activewear,167,8091.63,4399.62
+2025,6,Nordstrom,Aerie Intimates,427,12538.62,7056.16
+2025,6,Nordstrom,Graphic Tees,303,7237.47,4416.5
+2025,6,Nordstrom,Loungewear,257,13081.69,7679.88
+2025,6,Nordstrom,Men's Denim,284,18609.97,9897.61
+2025,6,Nordstrom,Outerwear,106,10680.44,5062.08
+2025,6,Nordstrom,Seasonal Capsule,59,5234.75,2529.13
+2025,6,Nordstrom,Tops & Blouses,405,15214.91,8406.66
+2025,6,Nordstrom,Women's Denim,315,17623.11,9020.13
+2025,6,NuOrder_Direct,Accessories,138,3535.58,2291.82
+2025,6,NuOrder_Direct,Activewear,191,9057.49,4880.14
+2025,6,NuOrder_Direct,Aerie Intimates,465,13886.14,7607.58
+2025,6,NuOrder_Direct,Graphic Tees,141,3300.73,1887.32
+2025,6,NuOrder_Direct,Loungewear,237,11380.12,6304.49
+2025,6,NuOrder_Direct,Men's Denim,270,16614.64,8595.67
+2025,6,NuOrder_Direct,Outerwear,73,7120.16,3463.09
+2025,6,NuOrder_Direct,Seasonal Capsule,29,2594.76,1337.49
+2025,6,NuOrder_Direct,Tops & Blouses,224,8695.38,4855.44
+2025,6,NuOrder_Direct,Women's Denim,274,15711.41,8373.35
+2025,6,Zappos,Accessories,59,1246.03,830.23
+2025,6,Zappos,Activewear,89,4321.79,2305.98
+2025,6,Zappos,Aerie Intimates,157,4422.89,2550.31
+2025,6,Zappos,Graphic Tees,47,1128.39,685.18
+2025,6,Zappos,Loungewear,77,3518.31,1991.9
+2025,6,Zappos,Men's Denim,156,9691.59,4867.97
+2025,6,Zappos,Outerwear,52,4626.44,2139.51
+2025,6,Zappos,Seasonal Capsule,19,1771.08,954.01
+2025,6,Zappos,Tops & Blouses,116,4196.99,2262.54
+2025,6,Zappos,Women's Denim,166,9275.81,5213.69
+2025,7,Amazon,Accessories,222,5560.32,3423.48
+2025,7,Amazon,Activewear,379,19168.09,10007.97
+2025,7,Amazon,Aerie Intimates,637,19795.22,11307.08
+2025,7,Amazon,Graphic Tees,672,15111.43,8849.44
+2025,7,Amazon,Loungewear,396,17587.82,9992.35
+2025,7,Amazon,Men's Denim,487,32222.73,15626.08
+2025,7,Amazon,Outerwear,253,22316.55,10221.78
+2025,7,Amazon,Seasonal Capsule,164,14008.68,6784.05
+2025,7,Amazon,Tops & Blouses,734,28002.98,15113.71
+2025,7,Amazon,Women's Denim,266,14456.43,7463.85
+2025,7,Macy's,Accessories,356,9127.66,5725.02
+2025,7,Macy's,Activewear,502,24515.24,13375.4
+2025,7,Macy's,Aerie Intimates,798,24846.33,13442.12
+2025,7,Macy's,Graphic Tees,440,9614.51,5761.01
+2025,7,Macy's,Loungewear,522,24005.6,13651.83
+2025,7,Macy's,Men's Denim,471,28673.96,15484.0
+2025,7,Macy's,Outerwear,284,25363.69,12089.72
+2025,7,Macy's,Seasonal Capsule,147,12504.14,6288.98
+2025,7,Macy's,Tops & Blouses,780,27379.83,15430.01
+2025,7,Macy's,Women's Denim,795,42892.74,24276.5
+2025,7,Nordstrom,Accessories,153,4521.61,2694.65
+2025,7,Nordstrom,Activewear,203,9702.1,5475.94
+2025,7,Nordstrom,Aerie Intimates,456,13986.66,7989.34
+2025,7,Nordstrom,Graphic Tees,236,5759.84,3516.52
+2025,7,Nordstrom,Loungewear,273,13718.15,8422.78
+2025,7,Nordstrom,Men's Denim,328,21080.21,10995.24
+2025,7,Nordstrom,Outerwear,224,22445.8,10766.91
+2025,7,Nordstrom,Seasonal Capsule,69,5944.97,3023.83
+2025,7,Nordstrom,Tops & Blouses,482,17034.67,9449.04
+2025,7,Nordstrom,Women's Denim,421,22083.32,11768.42
+2025,7,NuOrder_Direct,Accessories,130,3533.85,2213.79
+2025,7,NuOrder_Direct,Activewear,209,9804.22,5720.98
+2025,7,NuOrder_Direct,Aerie Intimates,436,13022.48,7267.51
+2025,7,NuOrder_Direct,Graphic Tees,108,2665.52,1530.26
+2025,7,NuOrder_Direct,Loungewear,275,12301.86,7272.59
+2025,7,NuOrder_Direct,Men's Denim,232,14683.3,7455.64
+2025,7,NuOrder_Direct,Outerwear,150,15066.68,7150.77
+2025,7,NuOrder_Direct,Seasonal Capsule,37,3330.29,1716.18
+2025,7,NuOrder_Direct,Tops & Blouses,263,10214.06,5911.56
+2025,7,NuOrder_Direct,Women's Denim,361,19676.51,10697.61
+2025,7,Zappos,Accessories,62,1405.08,847.41
+2025,7,Zappos,Activewear,94,4356.71,2460.36
+2025,7,Zappos,Aerie Intimates,168,4884.79,2901.44
+2025,7,Zappos,Graphic Tees,46,1079.46,698.11
+2025,7,Zappos,Loungewear,64,2834.19,1541.66
+2025,7,Zappos,Men's Denim,157,9654.49,4942.46
+2025,7,Zappos,Outerwear,94,7832.5,3933.83
+2025,7,Zappos,Seasonal Capsule,21,2068.99,1069.65
+2025,7,Zappos,Tops & Blouses,138,5117.6,2912.99
+2025,7,Zappos,Women's Denim,210,11630.34,6354.82
+2025,8,Amazon,Accessories,182,4366.61,2885.9
+2025,8,Amazon,Activewear,193,10882.01,6127.06
+2025,8,Amazon,Aerie Intimates,272,8088.7,4771.97
+2025,8,Amazon,Graphic Tees,447,10208.21,6154.95
+2025,8,Amazon,Loungewear,266,12199.0,7153.15
+2025,8,Amazon,Men's Denim,348,22798.19,11593.8
+2025,8,Amazon,Outerwear,177,15144.68,7014.3
+2025,8,Amazon,Seasonal Capsule,154,12016.09,6423.74
+2025,8,Amazon,Tops & Blouses,475,18290.85,9691.47
+2025,8,Amazon,Women's Denim,244,13248.18,7292.99
+2025,8,Macy's,Accessories,263,6918.69,4236.46
+2025,8,Macy's,Activewear,268,13027.73,7023.74
+2025,8,Macy's,Aerie Intimates,349,10646.58,6008.01
+2025,8,Macy's,Graphic Tees,284,6252.24,3812.16
+2025,8,Macy's,Loungewear,271,11810.41,7220.96
+2025,8,Macy's,Men's Denim,349,21409.34,11387.11
+2025,8,Macy's,Outerwear,209,17529.33,8653.54
+2025,8,Macy's,Seasonal Capsule,108,8912.74,4422.79
+2025,8,Macy's,Tops & Blouses,511,18444.07,10440.62
+2025,8,Macy's,Women's Denim,408,23089.87,12429.52
+2025,8,Nordstrom,Accessories,118,3434.06,2095.98
+2025,8,Nordstrom,Activewear,118,5578.48,3141.43
+2025,8,Nordstrom,Aerie Intimates,234,6988.43,4267.25
+2025,8,Nordstrom,Graphic Tees,127,3190.2,1977.01
+2025,8,Nordstrom,Loungewear,149,7702.58,4516.05
+2025,8,Nordstrom,Men's Denim,267,16567.08,8908.48
+2025,8,Nordstrom,Outerwear,180,17487.17,8319.29
+2025,8,Nordstrom,Seasonal Capsule,71,6046.09,3019.7
+2025,8,Nordstrom,Tops & Blouses,308,11019.36,6612.92
+2025,8,Nordstrom,Women's Denim,190,10624.22,5679.06
+2025,8,NuOrder_Direct,Accessories,96,2782.51,1633.04
+2025,8,NuOrder_Direct,Activewear,121,6014.4,3581.83
+2025,8,NuOrder_Direct,Aerie Intimates,224,6689.73,4030.29
+2025,8,NuOrder_Direct,Graphic Tees,61,1517.76,867.61
+2025,8,NuOrder_Direct,Loungewear,160,7610.82,4263.84
+2025,8,NuOrder_Direct,Men's Denim,160,10335.71,5553.54
+2025,8,NuOrder_Direct,Outerwear,125,12167.61,6336.1
+2025,8,NuOrder_Direct,Seasonal Capsule,31,2722.32,1432.72
+2025,8,NuOrder_Direct,Tops & Blouses,158,6421.04,3751.33
+2025,8,NuOrder_Direct,Women's Denim,194,10308.91,5735.91
+2025,8,Zappos,Accessories,42,931.45,613.63
+2025,8,Zappos,Activewear,57,2905.19,1610.36
+2025,8,Zappos,Aerie Intimates,114,3536.88,2000.37
+2025,8,Zappos,Graphic Tees,38,905.45,574.14
+2025,8,Zappos,Loungewear,25,1114.8,661.06
+2025,8,Zappos,Men's Denim,115,7280.56,3646.55
+2025,8,Zappos,Outerwear,62,5345.87,2420.57
+2025,8,Zappos,Seasonal Capsule,19,1811.08,916.97
+2025,8,Zappos,Tops & Blouses,67,2496.74,1412.96
+2025,8,Zappos,Women's Denim,110,6281.2,3397.56
+2025,9,Amazon,Accessories,162,4133.39,2442.57
+2025,9,Amazon,Activewear,138,8877.39,4647.65
+2025,9,Amazon,Aerie Intimates,220,6830.08,3933.6
+2025,9,Amazon,Graphic Tees,379,8398.0,4926.26
+2025,9,Amazon,Loungewear,221,9570.23,5440.43
+2025,9,Amazon,Men's Denim,264,17172.59,8570.02
+2025,9,Amazon,Outerwear,136,11276.81,4922.18
+2025,9,Amazon,Seasonal Capsule,154,10882.35,5658.79
+2025,9,Amazon,Tops & Blouses,469,18560.09,9929.41
+2025,9,Amazon,Women's Denim,171,9782.48,5171.2
+2025,9,Macy's,Accessories,238,6254.68,3825.78
+2025,9,Macy's,Activewear,204,9978.7,5771.57
+2025,9,Macy's,Aerie Intimates,267,8099.98,4961.45
+2025,9,Macy's,Graphic Tees,201,4168.54,2483.43
+2025,9,Macy's,Loungewear,220,9223.5,5639.11
+2025,9,Macy's,Men's Denim,225,13521.82,7053.52
+2025,9,Macy's,Outerwear,125,9676.49,4669.45
+2025,9,Macy's,Seasonal Capsule,146,10132.31,5185.72
+2025,9,Macy's,Tops & Blouses,427,15583.62,8938.19
+2025,9,Macy's,Women's Denim,185,10277.06,5642.59
+2025,9,Nordstrom,Accessories,107,3221.19,1918.63
+2025,9,Nordstrom,Activewear,89,4219.36,2373.58
+2025,9,Nordstrom,Aerie Intimates,157,5162.45,2938.63
+2025,9,Nordstrom,Graphic Tees,92,2324.89,1525.18
+2025,9,Nordstrom,Loungewear,69,3217.2,1949.76
+2025,9,Nordstrom,Men's Denim,168,10638.94,5780.85
+2025,9,Nordstrom,Outerwear,79,6685.41,3015.79
+2025,9,Nordstrom,Seasonal Capsule,85,6464.73,3047.73
+2025,9,Nordstrom,Tops & Blouses,278,10027.93,5807.23
+2025,9,Nordstrom,Women's Denim,56,3335.1,1880.63
+2025,9,NuOrder_Direct,Accessories,79,2072.2,1297.53
+2025,9,NuOrder_Direct,Activewear,95,4967.68,2664.36
+2025,9,NuOrder_Direct,Aerie Intimates,192,6137.0,3362.72
+2025,9,NuOrder_Direct,Graphic Tees,40,905.83,575.39
+2025,9,NuOrder_Direct,Loungewear,95,3970.47,2330.46
+2025,9,NuOrder_Direct,Men's Denim,119,7398.92,3827.61
+2025,9,NuOrder_Direct,Outerwear,40,3580.87,1677.77
+2025,9,NuOrder_Direct,Seasonal Capsule,30,2377.59,1164.33
+2025,9,NuOrder_Direct,Tops & Blouses,114,5101.41,2928.58
+2025,9,NuOrder_Direct,Women's Denim,98,5957.13,3235.25
+2025,9,Zappos,Accessories,42,927.07,600.99
+2025,9,Zappos,Activewear,46,2416.74,1345.57
+2025,9,Zappos,Aerie Intimates,85,2796.19,1695.28
+2025,9,Zappos,Graphic Tees,40,983.71,589.15
+2025,9,Zappos,Loungewear,13,524.3,320.67
+2025,9,Zappos,Men's Denim,96,5825.76,3122.84
+2025,9,Zappos,Outerwear,34,2425.59,1088.99
+2025,9,Zappos,Seasonal Capsule,32,2109.67,1013.69
+2025,9,Zappos,Tops & Blouses,19,772.66,419.38
+2025,9,Zappos,Women's Denim,51,2902.05,1552.53
+2025,10,Amazon,Accessories,145,3409.37,2029.95
+2025,10,Amazon,Activewear,133,8056.71,4655.39
+2025,10,Amazon,Aerie Intimates,187,6036.61,3417.35
+2025,10,Amazon,Graphic Tees,285,6521.08,4000.79
+2025,10,Amazon,Loungewear,125,4952.52,2766.93
+2025,10,Amazon,Men's Denim,280,17939.77,9547.04
+2025,10,Amazon,Outerwear,188,15755.78,6962.91
+2025,10,Amazon,Seasonal Capsule,128,7961.25,3856.63
+2025,10,Amazon,Tops & Blouses,433,16518.99,9425.29
+2025,10,Amazon,Women's Denim,222,12780.13,6659.3
+2025,10,Macy's,Accessories,138,3219.32,2112.15
+2025,10,Macy's,Activewear,210,10887.93,5910.5
+2025,10,Macy's,Aerie Intimates,181,5078.81,3008.68
+2025,10,Macy's,Graphic Tees,147,2887.08,1822.86
+2025,10,Macy's,Loungewear,156,6419.49,3827.64
+2025,10,Macy's,Men's Denim,191,11383.18,6171.7
+2025,10,Macy's,Outerwear,148,12037.68,5583.99
+2025,10,Macy's,Seasonal Capsule,118,6855.55,3250.4
+2025,10,Macy's,Tops & Blouses,488,17115.5,10005.33
+2025,10,Macy's,Women's Denim,114,5953.51,3249.48
+2025,10,Nordstrom,Accessories,59,1510.68,904.8
+2025,10,Nordstrom,Activewear,75,3074.39,1729.59
+2025,10,Nordstrom,Aerie Intimates,139,4670.69,2796.76
+2025,10,Nordstrom,Graphic Tees,85,2303.8,1428.03
+2025,10,Nordstrom,Loungewear,41,1993.89,1154.67
+2025,10,Nordstrom,Men's Denim,154,9956.1,5321.58
+2025,10,Nordstrom,Outerwear,107,8621.1,3937.91
+2025,10,Nordstrom,Seasonal Capsule,61,4051.22,1962.58
+2025,10,Nordstrom,Tops & Blouses,274,10049.64,5641.12
+2025,10,Nordstrom,Women's Denim,45,2518.15,1419.86
+2025,10,NuOrder_Direct,Accessories,39,1051.21,638.37
+2025,10,NuOrder_Direct,Activewear,110,6031.72,3123.55
+2025,10,NuOrder_Direct,Aerie Intimates,148,4486.16,2558.61
+2025,10,NuOrder_Direct,Graphic Tees,27,593.15,362.35
+2025,10,NuOrder_Direct,Loungewear,83,3404.06,2086.66
+2025,10,NuOrder_Direct,Men's Denim,88,5614.97,2921.7
+2025,10,NuOrder_Direct,Outerwear,40,4068.55,1935.72
+2025,10,NuOrder_Direct,Seasonal Capsule,19,761.79,372.68
+2025,10,NuOrder_Direct,Tops & Blouses,116,5086.92,2803.04
+2025,10,NuOrder_Direct,Women's Denim,73,4430.06,2351.95
+2025,10,Zappos,Accessories,39,754.98,482.97
+2025,10,Zappos,Activewear,12,657.73,364.06
+2025,10,Zappos,Aerie Intimates,52,1660.98,1021.97
+2025,10,Zappos,Graphic Tees,50,1254.61,778.78
+2025,10,Zappos,Men's Denim,93,5856.47,2983.14
+2025,10,Zappos,Outerwear,46,3228.62,1454.23
+2025,10,Zappos,Seasonal Capsule,32,1382.95,636.61
+2025,10,Zappos,Tops & Blouses,21,810.38,472.99
+2025,10,Zappos,Women's Denim,20,1177.61,651.8
+2025,11,Amazon,Accessories,71,1287.64,782.5
+2025,11,Amazon,Activewear,98,6192.0,3464.51
+2025,11,Amazon,Aerie Intimates,89,3143.8,1620.85
+2025,11,Amazon,Graphic Tees,150,3708.81,2286.7
+2025,11,Amazon,Loungewear,42,2035.54,1330.29
+2025,11,Amazon,Men's Denim,83,5607.56,2886.59
+2025,11,Amazon,Outerwear,152,12258.62,5596.36
+2025,11,Amazon,Seasonal Capsule,130,8532.78,4095.5
+2025,11,Amazon,Tops & Blouses,268,10385.09,5732.32
+2025,11,Amazon,Women's Denim,140,8001.75,4447.5
+2025,11,Macy's,Accessories,34,971.1,593.01
+2025,11,Macy's,Activewear,90,5165.14,2786.0
+2025,11,Macy's,Aerie Intimates,89,2751.11,1479.72
+2025,11,Macy's,Graphic Tees,51,1048.07,650.72
+2025,11,Macy's,Loungewear,32,1621.58,937.55
+2025,11,Macy's,Men's Denim,70,3985.74,2238.26
+2025,11,Macy's,Outerwear,98,7813.71,3558.14
+2025,11,Macy's,Seasonal Capsule,92,5079.59,2403.41
+2025,11,Macy's,Tops & Blouses,335,11947.77,6851.47
+2025,11,Macy's,Women's Denim,29,1349.04,727.97
+2025,11,Nordstrom,Accessories,20,662.67,376.83
+2025,11,Nordstrom,Activewear,13,488.93,254.76
+2025,11,Nordstrom,Aerie Intimates,68,2394.35,1434.63
+2025,11,Nordstrom,Graphic Tees,64,1660.02,1097.98
+2025,11,Nordstrom,Loungewear,6,267.81,151.15
+2025,11,Nordstrom,Men's Denim,59,3859.32,1955.21
+2025,11,Nordstrom,Outerwear,79,6581.53,2917.23
+2025,11,Nordstrom,Seasonal Capsule,54,3283.25,1626.0
+2025,11,Nordstrom,Tops & Blouses,210,7729.09,4374.52
+2025,11,Nordstrom,Women's Denim,7,478.1,232.86
+2025,11,NuOrder_Direct,Accessories,16,483.33,302.3
+2025,11,NuOrder_Direct,Activewear,43,2567.56,1445.11
+2025,11,NuOrder_Direct,Aerie Intimates,56,1684.28,942.75
+2025,11,NuOrder_Direct,Graphic Tees,18,423.58,251.29
+2025,11,NuOrder_Direct,Loungewear,19,938.21,577.22
+2025,11,NuOrder_Direct,Men's Denim,11,755.52,376.95
+2025,11,NuOrder_Direct,Outerwear,22,2457.06,1120.23
+2025,11,NuOrder_Direct,Seasonal Capsule,16,672.22,295.2
+2025,11,NuOrder_Direct,Tops & Blouses,62,2562.21,1537.2
+2025,11,NuOrder_Direct,Women's Denim,35,2105.78,1189.61
+2025,11,Zappos,Accessories,15,211.15,125.55
+2025,11,Zappos,Aerie Intimates,31,1077.91,634.14
+2025,11,Zappos,Graphic Tees,35,869.28,549.8
+2025,11,Zappos,Men's Denim,25,1732.03,876.97
+2025,11,Zappos,Outerwear,31,2043.5,908.11
+2025,11,Zappos,Seasonal Capsule,28,1195.35,551.86
+2025,11,Zappos,Tops & Blouses,14,538.87,331.53
+2025,12,Amazon,Accessories,29,446.05,256.06
+2025,12,Amazon,Activewear,48,3176.2,1771.62
+2025,12,Amazon,Aerie Intimates,66,2316.55,1223.46
+2025,12,Amazon,Graphic Tees,84,2360.78,1435.48
+2025,12,Amazon,Loungewear,23,1147.67,702.49
+2025,12,Amazon,Men's Denim,25,1752.03,966.62
+2025,12,Amazon,Seasonal Capsule,57,3122.54,1413.95
+2025,12,Amazon,Tops & Blouses,169,6149.43,3229.64
+2025,12,Amazon,Women's Denim,13,900.69,438.37
+2025,12,Macy's,Accessories,23,618.94,385.56
+2025,12,Macy's,Activewear,37,2454.44,1348.2
+2025,12,Macy's,Aerie Intimates,44,1497.58,823.69
+2025,12,Macy's,Graphic Tees,17,449.72,264.98
+2025,12,Macy's,Loungewear,14,673.1,424.57
+2025,12,Macy's,Men's Denim,29,1492.47,797.59
+2025,12,Macy's,Seasonal Capsule,58,2668.13,1275.24
+2025,12,Macy's,Tops & Blouses,147,5183.25,2880.12
+2025,12,Nordstrom,Accessories,8,238.03,150.77
+2025,12,Nordstrom,Aerie Intimates,13,443.22,286.7
+2025,12,Nordstrom,Graphic Tees,40,1068.84,681.28
+2025,12,Nordstrom,Men's Denim,31,1897.67,963.24
+2025,12,Nordstrom,Outerwear,3,289.47,138.52
+2025,12,Nordstrom,Seasonal Capsule,20,969.43,460.19
+2025,12,Nordstrom,Tops & Blouses,107,3906.3,2201.54
+2025,12,Nordstrom,Women's Denim,8,540.76,275.18
+2025,12,NuOrder_Direct,Accessories,10,266.66,173.91
+2025,12,NuOrder_Direct,Activewear,18,1182.4,645.83
+2025,12,NuOrder_Direct,Aerie Intimates,26,868.38,480.5
+2025,12,NuOrder_Direct,Graphic Tees,2,39.38,22.01
+2025,12,NuOrder_Direct,Loungewear,8,400.04,250.25
+2025,12,NuOrder_Direct,Men's Denim,2,130.24,69.43
+2025,12,NuOrder_Direct,Seasonal Capsule,16,631.06,298.84
+2025,12,NuOrder_Direct,Tops & Blouses,16,633.22,389.64
+2025,12,NuOrder_Direct,Women's Denim,4,260.3,133.52
+2025,12,Zappos,Accessories,8,111.97,67.34
+2025,12,Zappos,Aerie Intimates,9,322.37,191.88
+2025,12,Zappos,Graphic Tees,21,571.76,351.54
+2025,12,Zappos,Men's Denim,7,483.23,266.5
+2025,12,Zappos,Seasonal Capsule,30,1345.53,570.83

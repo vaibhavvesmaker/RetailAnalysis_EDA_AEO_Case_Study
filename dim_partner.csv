@@ -1,0 +1,6 @@
+Partner,Tier,Service_Level_Target,Priority,Demand_Mult,Vol,Breadth
+NuOrder_Direct,Direct,0.95,0,0.55,0.12,0.6
+Macy's,Tier 1,0.92,1,1.0,0.18,0.7
+Nordstrom,Tier 1,0.94,2,0.7,0.16,0.55
+Amazon,Tier 1,0.9,3,1.4,0.22,0.45
+Zappos,Tier 2,0.88,4,0.45,0.2,0.35
